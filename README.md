@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# FinalGradingProject
-Determine Final Evaluation or Grade from students score
-=======
 # GRADING SCORE FOR FINAL EVALUATION
 
 These code produced a final evaluation or final grade based on their corresponding average score in all assignment
@@ -12,4 +8,4 @@ These code is written as a learning project for author that is offered in Founda
 
 ## Author
 FAlifvian
->>>>>>> 31a10f9 (My First Commit)
+
